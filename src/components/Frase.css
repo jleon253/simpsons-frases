@@ -1,0 +1,20 @@
+.quote{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #3a3a3a;
+ position: relative;
+ padding: 0px 10px;
+}
+
+.quote::before{
+  content: open-quote;
+  font-size: 3rem;
+  color: #ff0000;
+  margin-right: 5px;
+  position: absolute;
+  left: -10px;
+  top: -10px;
+}
+
+.personaje{
+  color: #909090;
+}

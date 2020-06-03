@@ -1,3 +1,16 @@
+# Los Simpsons: Frases aleatorias
+
+This small app shows random quotes from characters in The Simpsons.
+
+**Demo:** https://jleon253.github.io/simpsons-frases
+
+### Dev tools used:
+
+> - HTML, CSS, Bootstrap 4, SpinKit, SVG
+> - ES6, React.js, Fetch API
+> - API Quotes: https://thesimpsonsquoteapi.glitch.me/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
